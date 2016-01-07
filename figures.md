@@ -1,8 +1,7 @@
-figures can be found here: 
+figures can be found here:  
 Figure 1:  
 
-[[https://cloud.githubusercontent.com/assets/2405105/11715593/5f359f16-9f43-11e5-8c70-bd9c5617be95.png]]
-
+![Alt text](https://cloud.githubusercontent.com/assets/2405105/11715593/5f359f16-9f43-11e5-8c70-bd9c5617be95.png "Optional title")
 Figure 2: 
 https://cloud.githubusercontent.com/assets/2405105/11715595/5f55eac8-9f43-11e5-98aa-a4f695108239.png
 
